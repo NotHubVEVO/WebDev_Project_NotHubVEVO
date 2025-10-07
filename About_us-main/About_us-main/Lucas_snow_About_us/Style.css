@@ -1,0 +1,32 @@
+html {
+    height: 100%;
+    width: 100%;
+}
+body{
+    background-image: url("Background.png");
+}
+h1{
+    font-size:7em ;  
+    font-family:algerian ;
+    color: white;
+}
+.button-container{
+    position: relative;
+    border: 1px;
+}
+.top-right-buttons{
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+button{
+    font-size: 0.25em;
+    color: white;
+    background-color: red;
+}
+p1{
+    color: white;
+}
+p2{
+    color:white;
+}
