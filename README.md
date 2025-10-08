@@ -6,7 +6,6 @@ First Web Development project for Lucas Snow - An adventurous snowboarder.
 
 Lucas is blind - Text to speech and speech to text
 
-
 ♿ Visual Impairment
 
  Add alt text for all images.
