@@ -1,32 +1,26 @@
 # WebDev_Project_NotHubVEVO
 First Web Development project for Lucas Snow - An adventurous snowboarder.
 
+Visual Impairment
 
-08/10/25
+Add alt text for all images.
+Use proper heading tags (<h1>, <h2>, etc.).
+Write descriptive link text (avoid “click here”).
 
-Lucas is blind - Text to speech and speech to text
+Autism / Neurodiverse
 
-♿ Visual Impairment
+Keep a consistent layout across pages.
+Avoid bright / flashing animations.
+Break long text into short paragraphs & headings.
 
- Add alt text for all images.
- Use proper heading tags (<h1>, <h2>, etc.).
- Write descriptive link text (avoid “click here”).
+Colour Blindness
 
+Don’t rely on colour alone to show meaning.
+Use high-contrast colour pairs (e.g., dark text on light background).
+Underline or bold important text (don’t just colour it).
 
-🧠 Autism / Neurodiverse
+Dyslexia
 
- Keep a consistent layout across pages.
- Avoid bright / flashing animations.
- Break long text into short paragraphs & headings.
-
-🌈 Colour Blindness
-
- Don’t rely on colour alone to show meaning.
- Use high-contrast colour pairs (e.g., dark text on light background).
- Underline or bold important text (don’t just colour it).
-
-🔤 Dyslexia
-
- Use simple sans-serif fonts (Arial, Verdana).
- Set larger base font size (16px+).
- Avoid justified text — left-align instead.
+Use simple sans-serif fonts (Arial, Verdana).
+Set larger base font size (16px+).
+Avoid justified text — left-align instead.
