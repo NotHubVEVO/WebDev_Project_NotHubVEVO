@@ -35,7 +35,7 @@ h1 { font-size: 80px;
 .search {
         --padding: 14px;
 
-        width : max-content;
+        width : 600px;
         display : flex;
         align-items : center;
         padding: var(--padding);
